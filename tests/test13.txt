@@ -1,0 +1,8 @@
+Main{
+    S2
+    {
+        public: a, b;
+        a = b;
+    }
+    a = b;
+}

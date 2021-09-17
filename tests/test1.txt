@@ -1,0 +1,18 @@
+a, b, c;
+
+test {
+    public:
+        a, b, hello;
+    private:
+        x, y;
+    a = b;
+    hello = c;
+    y = r;
+
+    nested {
+    public: b;
+        a = b;
+        x = hello;
+        c = y;
+    }
+}

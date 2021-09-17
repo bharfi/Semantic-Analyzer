@@ -1,0 +1,14 @@
+main {
+    public: a;
+
+    nested1
+    {    
+        nested2
+        {    
+            nested3 //a
+            {           
+                a = a;
+            }
+        }
+    }
+}

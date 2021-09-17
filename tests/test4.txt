@@ -1,0 +1,4 @@
+scope1{
+    public: a;
+    a = c;
+}//

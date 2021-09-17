@@ -1,0 +1,9 @@
+scope1 {
+    public: a;
+    a = b;
+}
+
+scope2 {
+    public: a;
+    a = b;
+}

@@ -1,0 +1,11 @@
+
+test
+{
+    private: b,c;
+    nested1
+    {
+        private: b;
+        //b = a;
+    }
+
+}   

@@ -1,0 +1,14 @@
+
+test
+{
+    nested1
+    {
+        public: b,a;
+        //b = a;
+
+        test2{
+            public: b,a;
+            //b = a;
+        }
+    }
+}   
